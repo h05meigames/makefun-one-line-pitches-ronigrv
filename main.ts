@@ -3,7 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // One-sentence pitch for a friend who has never coded: let an AI agent on
 // make.fun build their first app idea.
 const entry =
-  "You don't need to learn to code — just describe the app you've always wanted in plain words, and an AI agent on make.fun builds a working version for you to try, free.";
+  "You don't need to learn to code — just describe the app idea you've always wanted in plain words, and an AI agent on make.fun builds a real, working version for you to try, free, while you stay in charge.";
 
 // The bounty allows one sentence of 1–240 characters. Count Unicode code
 // points so multi-byte characters count once, and fail loudly instead of
